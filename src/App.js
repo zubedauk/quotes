@@ -43,7 +43,7 @@ class App extends Component {
 
     <div className="App" style={{textAlign:'left',fontStyle:'italic',fontSize:'22px', padding:'1rem',backgroundColor:'#CDCDCD' ,width:'80%',marginLeft:'auto',marginRight:'auto',marginTop:'2rem'}} >
       <div style={{color:'#505050'}}>
-      <p id="head">Enjoy the positive quotes.<br/>These makes a positive impact on our life.Click on Quote</p>
+      <p id="head">Enjoy the positive quotes.<br/>These makes a positive impact on our life.Click on Quote please.</p>
       <img id="img" style={{display:'none',width:'2rem'}} alt="" src="https://img.pngio.com/collection-of-free-transparent-white-quotation-marks-download-on-quotation-marks-transparent-492_395.png"/>
         <p  style={{marginLeft:'1rem',display:'inline'}} id="para"></p>
         <p id="author"></p>
